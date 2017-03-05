@@ -43,6 +43,7 @@
 									<input type="submit" id="form-submit" class="pull-right" value="Enviar Mensaje">
 								</div>
 							</form>
+							<div id="respuesta-mensaje"></div>
 						</div>
 					</div>
 					<!-- end contact form -->

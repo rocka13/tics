@@ -180,28 +180,32 @@
 					},
 					messages: {
 						name: {
-							required: "come on, you have a name don't you?",
-							minlength: "your name must consist of at least 2 characters"
+							required: "debes de colocar un nombre",
+							minlength: "su nombre debe contener al menos 2 caracteres"
 						},
 						email: {
-							required: "no email, no message"
+							required: "esto no es un email"
 						},
 						message: {
-							required: "um...yea, you have to write something to send this form.",
-							minlength: "thats all? really?"
+							required: "debes de esribir algo.",
+							minlength: "mensaje muy corto"
 						}
 					},
-					submitHandler: function(form) {
+					submitHandler:function(form){
 						$(form).ajaxSubmit({
 							type:"POST",
 							data: $(form).serialize(),
-							url:"process.php",
-							success: function() {
+							url:"php/enviar.php",
+							success: function(data) {
 								$('#contact-form :input').attr('disabled', 'disabled');
 								$('#contact-form').fadeTo( "slow", 0.15, function() {
 									$(this).find(':input').attr('disabled', 'disabled');
 									$(this).find('label').css('cursor','default');
 									$('#success').fadeIn();
+									$("#respuesta-mensaje").html(data);
+									setTimeout(function() {
+        								$("#respuesta-mensaje").fadeOut(1500);
+    														},3000);
 								});
 							},
 							error: function() {
@@ -213,6 +217,13 @@
 					}
 				});
 			});
+
+			function borrar_form_contactenos()
+			{
+				         $("#name").val("");
+	       $("#email").val("");
+		$("#message").val("");
+			}
 		</script>
     </body>
 </html>

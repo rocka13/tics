@@ -3,6 +3,43 @@ Plugin Name: 	Count To
 Written by: 	Matt Huggins - https://github.com/mhuggins/jquery-countTo
 */
 
+
+
+//enviar contacto
+$('#form-submit').click(function(){
+	var nombre=$("#name").val();
+	var correo=$("#email").val();
+	var mensaje=$("#message").val();
+  	var url = "php/enviar.php";
+
+      $.ajax({
+
+           type: "POST",
+
+           url: url,
+
+           data: {nombre:nombre, correo:correo, mensaje:mensaje}, // Adjuntar los campos del formulario enviado.
+
+           success: function(data)
+
+           {
+               
+               $("#respuesta-mensaje").html(data)
+               $("#fname").val("");
+	       $("#email").val("");
+		$("#phone").val("");
+		$("#message").val("");
+
+           }
+
+  
+   });
+
+})
+
+
+
+/*
 (function ($) {
 	$.fn.countTo = function (options) {
 		options = options || {};
@@ -83,3 +120,4 @@ Written by: 	Matt Huggins - https://github.com/mhuggins/jquery-countTo
 		return value.toFixed(settings.decimals);
 	}
 }(jQuery));
+*/
