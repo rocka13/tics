@@ -6,7 +6,7 @@
 						<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 					</div>	
 					<div class="sec-sub-title text-center">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+						<p>Fotos de alguno de nuestros desarrollos de las Tics-Girardot</p>
 					</div>
 					<div class="work-filter wow fadeInRight animated" data-wow-duration="500ms">
 						<ul class="text-center">
@@ -20,7 +20,6 @@
 				</div>
 			</div>
 			<div class="project-wrapper">
-			
 				<figure class="mix work-item branding">
 					<img src="img/works/item-1.jpg" alt="">
 					<figcaption class="overlay">
