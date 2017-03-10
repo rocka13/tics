@@ -39,7 +39,7 @@ require("mailGoogle/class.phpmailer.php"); // Requiere PHPMAILER para poder envi
     $mail->IsSMTP(); 
     $mail->Host = "ssl://smtp.gmail.com:465";  // Servidor de Salida. 465 es uno de los puertos que usa Google para su servidor SMTP
     $mail->SMTPAuth = true; 
-    $mail->Username = "oskrjag@gmail.com";  // Correo Electrónico
+    $mail->Username = "oticsgirardot@gmail.com";  // Correo Electrónico
     $mail->Password = "oskr2014"; // Contraseña del correo
 
     if ($mail->Send()){ ?>

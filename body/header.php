@@ -23,7 +23,7 @@
                 <li><a href="#features">Laboratorios</a></li>
                 <li><a href="#works">Desarrollo</a></li>
                 <li><a href="#team">Equipo de Trabajo</a></li>
-                <li><a href="http://google.com">Contactenos</a></li>
+                <li><a href="#contact">Contactenos</a></li>
             </ul>
         </nav>
 		<!-- /main nav -->				

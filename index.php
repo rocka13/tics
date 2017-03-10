@@ -197,16 +197,17 @@
 							data: $(form).serialize(),
 							url:"php/enviar.php",
 							success: function(data) {
-								$('#contact-form :input').attr('disabled', 'disabled');
+								/*$('#contact-form :input').attr('disabled', 'disabled');
 								$('#contact-form').fadeTo( "slow", 0.15, function() {
 									$(this).find(':input').attr('disabled', 'disabled');
 									$(this).find('label').css('cursor','default');
 									$('#success').fadeIn();
-									$("#respuesta-mensaje").html(data);
-									setTimeout(function() {
-        								$("#respuesta-mensaje").fadeOut(1500);
-    														},3000);
-								});
+								});*/
+								borrar_form_contactenos();
+								$("#respuesta-mensaje").html(data);
+								setTimeout(function() {
+        							$("#respuesta-mensaje").fadeOut(1000);
+    							},3000);
 							},
 							error: function() {
 								$('#contact-form').fadeTo( "slow", 0.15, function() {
@@ -220,10 +221,12 @@
 
 			function borrar_form_contactenos()
 			{
-				         $("#name").val("");
-	       $("#email").val("");
-		$("#message").val("");
+				$("#name").val("");
+	       		$("#email").val("");
+				$("#message").val("");
 			}
+
+			
 		</script>
     </body>
 </html>

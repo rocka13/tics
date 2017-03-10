@@ -126,13 +126,13 @@ body > section,
   height: 100%;
   position: fixed;
   width: 100%;
-  z-index: 1100;
+  z-index: 100;
 }
 
 #preloader > img {
-  left: 47%;
+  left: 0%;
   position: absolute;
-  top: 48%;
+  top: 0%;
 }
 
 
@@ -722,4 +722,7 @@ label.error {
   position: fixed;
   right: 25px;
   z-index: 9;
+}
+.oculto{
+  display: none;
 }
