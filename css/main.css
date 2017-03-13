@@ -122,6 +122,7 @@ body > section,
 }
 
 #preloader {
+
   background-color: #fff;
   height: 100%;
   position: fixed;
@@ -129,10 +130,8 @@ body > section,
   z-index: 100;
 }
 
-#preloader > img {
-  left: 0%;
-  position: absolute;
-  top: 0%;
+#preloader img {
+  width: 100%;
 }
 
 
@@ -188,6 +187,8 @@ body > section,
 }
 
 .carousel-caption {
+  border-radius: 10%;
+  background-color: rgba(0,0,0,.7);
   top: 50%;
 }
 
@@ -237,7 +238,7 @@ top: -8px;
 }
 
 .social-links li a {
-  color: rgba(255, 255, 255, 0.3);
+  color: #0fdfeb;
   display: block;
   margin: 0 6px;
 }
@@ -302,11 +303,7 @@ top: -8px;
 }
 
 .service-icon {
-  border: 1px solid #0eb493;
-  border-radius: 50%;
-  color: #0eb493;
   float: left;
-  padding: 10px 13px;
 }
 
 .service-desc {
@@ -725,4 +722,11 @@ label.error {
 }
 .oculto{
   display: none;
+}
+.i-img{
+  width: 70px;
+  height: 70px;
+}
+.centrar-caja{
+  margin: auto;
 }

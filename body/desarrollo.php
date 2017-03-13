@@ -6,15 +6,15 @@
 						<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 					</div>	
 					<div class="sec-sub-title text-center">
-						<p>Fotos de alguno de nuestros desarrollos de las Tics-Girardot</p>
+						<p>Fotos de alguno de nuestros desarrollos de PVD-Girardot</p>
 					</div>
 					<div class="work-filter wow fadeInRight animated" data-wow-duration="500ms">
 						<ul class="text-center">
 							<li><a href="javascript:;" data-filter="all" class="active filter">TODOS</a></li>
-							<li><a href="javascript:;" data-filter=".branding" class="filter">LABORATORIO1</a></li>
-							<li><a href="javascript:;" data-filter=".web" class="filter">LABORATORIO2</a></li>
-							<li><a href="javascript:;" data-filter=".logo-design" class="filter">LABORATORIO3</a></li>
-							<li><a href="javascript:;" data-filter=".photography" class="filter">photography</a></li>
+							<li><a href="javascript:;" data-filter=".branding" class="filter">PVD POLICARPA</a></li>
+							<li><a href="javascript:;" data-filter=".web" class="filter">PVD JOSE TRIANA</a></li>
+							<li><a href="javascript:;" data-filter=".logo-design" class="filter">PVD PLUS</a></li>
+							<li><a href="javascript:;" data-filter=".photography" class="filter">PVD LAB</a></li>
 						</ul>
 					</div>	
 				</div>
@@ -23,9 +23,9 @@
 				<figure class="mix work-item branding">
 					<img src="img/works/item-1.jpg" alt="">
 					<figcaption class="overlay">
-						<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="img/works/item-1.jpg"><i class="fa fa-eye fa-lg"></i></a>
+						<a class="fancybox" rel="works" title="Aumenta la imagen" href="img/works/item-1.jpg"><i class="fa fa-eye fa-lg"></i></a>
 						<h4>Labore et dolore magnam</h4>
-						<p>Photography</p>
+						<p>esta es una descripcion esta es una descripcion esta es una descripcion esta es una descripcion esta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcionesta es una descripcion esta es una descripcionesta es una descripcionesta es una descripcion</p>
 					</figcaption>
 				</figure>
 				

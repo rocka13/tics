@@ -10,7 +10,7 @@
             <!-- logo -->
             <a class="navbar-brand" href="#body">
 		        <h1 id="logo">
-				    <img src="img/logo.png" alt="Brandi">
+				    <img src="img/tics.png" alt="Brandi" width="180">
 				</h1>
 			</a>
 			<!-- /logo -->

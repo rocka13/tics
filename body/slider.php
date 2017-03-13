@@ -13,10 +13,10 @@
 				<div class="carousel-inner" role="listbox">
 					
 					<!-- single slide -->
-					<div class="item active" style="background-image: url(img/banner.jpg);">
+					<div class="item active" style="background-image: url(img/banner.png);">
 						<div class="carousel-caption">
-							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">Meet<span> Brandi</span>!</h2>
-							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/creative</span> one page template.</h3>
+							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">TICS<span> Girardot</span>!</h2>
+							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/Tecnologia</span> hacia un mejor futuro.</h3>
 							<p data-wow-duration="1000ms" class="wow slideInRight animated">We are a team of professionals</p>
 							
 							<ul class="social-links text-center">
