@@ -3,12 +3,12 @@
 				<div class="row">
 		
 					<div class="sec-title text-center wow fadeInUp animated" data-wow-duration="700ms">
-						<h2>Meet Our Team</h2>
+						<h2>Nuestro Equipo de Trabajo</h2>
 						<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 					</div>
 					
 					<div class="sec-sub-title text-center wow fadeInRight animated" data-wow-duration="500ms">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+						<p>El equipo profesional que conforma las Tecnologías de la Información y Comunicaciones de Girardot se define por su preparación, conocimientos. el equipo técnico trabajan conjuntamente para ofrecer la mejor opción a la hora de implementar y desarrollar soluciones dentro y fuera del plantel.</p>
 					</div>
 
 					<!-- single member -->

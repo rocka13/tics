@@ -12,7 +12,7 @@
 					<div class="col-md-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
 						<div class="service-item">
 							<div class="service-icon">
-								<img src="img/labs/boton circular ps.png" class="img-circle" width="80">
+								<a href="https://www.facebook.com/punto.vive?fref=ts"><img src="img/labs/boton circular ps.png" class="img-circle" width="80"></a>
 							</div>
 							
 							<div class="service-desc">
@@ -27,7 +27,7 @@
 					<div class="col-md-3 wow fadeInRight" data-wow-duration="500ms"  data-wow-delay="900ms">
 						<div class="service-item">
 							<div class="service-icon">
-								<img src="img/labs/boton circular rb.png" class="img-circle" width="80">
+								<a href="https://www.facebook.com/FASE1GIRARDOT?fref=ts"><img src="img/labs/boton circular rb.png" class="img-circle" width="80"></a>
 							</div>
 							
 							<div class="service-desc">
@@ -42,7 +42,7 @@
 					<div class="col-md-3 wow fadeInLeft" data-wow-duration="500ms">
 						<div class="service-item">
 							<div class="service-icon">
-								<img src="img/labs/boton circular fm.png" class="img-circle" width="80">
+								<a href="https://www.facebook.com/Punto-Vive-Digital-Plus-Girardot-1231156856955818"><img src="img/labs/boton circular fm.png" class="img-circle" width="80"></a>
 							</div>
 							
 							<div class="service-desc">
@@ -57,7 +57,7 @@
 					<div class="col-md-3 wow fadeInRight" data-wow-duration="500ms"  data-wow-delay="900ms">
 						<div class="service-item">
 							<div class="service-icon">
-								<img src="img/labs/boton pvd lab.png" class="img-circle" width="80">
+								<a href="https://www.facebook.com/Punto-Vive-Digital-Lab-Girardot-177955546016236/?fref=ts"><img src="img/labs/boton pvd lab.png" class="img-circle" width="80"></a>
 							</div>
 							
 							<div class="service-desc">

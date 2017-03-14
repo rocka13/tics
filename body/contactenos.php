@@ -17,8 +17,8 @@
 						<div class="contact-address">
 							<h3>Puedes Ubicarnos en!</h3>
 							<p>Girardot-Cundinamarca,</p>
-							<p>Alcaldia Municipal.</p>
-							<p>(03) 88888888</p>
+							<p>Alcaldia Municipal Piso 4.</p>
+							<p>8314134 Ext 404</p>
 						</div>
 					</div>
 					<!-- end contact address -->
@@ -51,10 +51,10 @@
 					<!-- footer social links -->
 					<div class="col-lg-1 col-md-1 col-sm-1 col-xs-12 wow fadeInRight animated" data-wow-duration="500ms" data-wow-delay="600ms">
 						<ul class="footer-social">
-							<li><a href="https://www.behance.net/Themefisher"><i class="fa fa-behance fa-2x"></i></a></li>
-							<li><a href="https://www.twitter.com/Themefisher"><i class="fa fa-twitter fa-2x"></i></a></li>
-							<li><a href="https://dribbble.com/themefisher"><i class="fa fa-dribbble fa-2x"></i></a></li>
-							<li><a href="https://www.facebook.com/Themefisher"><i class="fa fa-facebook fa-2x"></i></a></li>
+							<li><a href="https://www.facebook.com/AlcaldiadeGirardot"><i class="fa fa-facebook  fa-2x text-info"></i></a></li>
+							<li><a href="https://www.youtube.com/channel/UClHI2rOkSnhextXTBoWYBGA"><i class="fa fa-youtube-square fa-2x text-danger"></i></a></li>
+							<li><a href="https://twitter.com/GirardotAlcald"><i class="fa fa-twitter fa-2x text-primary"></i></a></li>
+							<li><a href="http://girardot-cundinamarca.gov.co/RSS.shtml"><i class="fa fa-rss-square fa-2x text-warning"></i></a></li>
 						</ul>
 					</div>
 					<!-- end footer social links -->
@@ -63,7 +63,15 @@
 			</div>
 			
 			<!-- Google map -->
-			<div id="map_canvas" class="wow bounceInDown animated" data-wow-duration="500ms"></div>
+			<div class="google-maps row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses-419!2sco!4v1489424619955!6m8!1m7!1sSdf_bgoZdJaVrE_-8ZYL2g!2m2!1d4.296470751018047!2d-74.80697357407033!3f264.6771212525186!4f1.6564354992333392!5f0.7820865974627469" width="3000" height="2000" frameborder="0" style="border:0" allowfullscreen>
+				</iframe>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7957.186703722462!2d-74.80396950011533!3d4.298881841251309!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe8344fecc3defd41!2sREINADO+NACIONAL+DEL+TURISMO!5e0!3m2!1ses-419!2sco!4v1489424696534" width="3000" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
+				</div>
+			</div>
 			<!-- End Google map -->
 			
 		</section>

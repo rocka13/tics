@@ -117,8 +117,8 @@
         ==================================== -->
 		<?php include_once('body/footer.php'); ?>
 		
-		
-		<a href="javascript:void(0);" id="back-top"><i class="fa fa-angle-up fa-3x"></i></a>
+	
+			<a href="javascript:void(0);" id="back-top" class="text-success"> <i class="fa fa-angle-up fa-3x"></i></a>
 
 		<!-- Essential jQuery Plugins
 		================================================== -->
@@ -142,7 +142,6 @@
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"></script>
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
 		<!-- Google Map -->
-        <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 		<!-- jquery easing -->
         <script src="js/jquery.easing.min.js"></script>
 		<!-- jquery easing -->
@@ -200,12 +199,6 @@
 							data: $(form).serialize(),
 							url:"php/enviar.php",
 							success: function(data) {
-								/*$('#contact-form :input').attr('disabled', 'disabled');
-								$('#contact-form').fadeTo( "slow", 0.15, function() {
-									$(this).find(':input').attr('disabled', 'disabled');
-									$(this).find('label').css('cursor','default');
-									$('#success').fadeIn();
-								});*/
 								borrar_form_contactenos();
 								$("#respuesta-mensaje").html(data);
 								setTimeout(function() {

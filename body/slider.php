@@ -20,10 +20,10 @@
 							<p data-wow-duration="1000ms" class="wow slideInRight animated">We are a team of professionals</p>
 							
 							<ul class="social-links text-center">
-								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>
+								<li><a href="https://www.facebook.com/AlcaldiadeGirardot"><i class="fa fa-facebook fa-lg"></i></a></li>
+								<li><a href="https://www.youtube.com/channel/UClHI2rOkSnhextXTBoWYBGA"><i class="fa fa-youtube-square fa-lg text-danger"></i></a></li>
+								<li><a href="https://twitter.com/GirardotAlcald"><i class="fa fa-twitter fa-lg text-primary"></i></a></li>
+								<li><a href="http://girardot-cundinamarca.gov.co/RSS.shtml"><i class="fa fa-rss-square fa-lg text-warning"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -37,10 +37,10 @@
 							<p data-wow-duration="500ms" class="wow slideInRight animated">We are a team of professionals</p>
 							
 							<ul class="social-links text-center">
-								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>
+								<li><a href="https://www.facebook.com/AlcaldiadeGirardot"><i class="fa fa-facebook fa-lg"></i></a></li>
+								<li><a href="https://www.youtube.com/channel/UClHI2rOkSnhextXTBoWYBGA"><i class="fa fa-youtube-square fa-lg text-danger"></i></a></li>
+								<li><a href="https://twitter.com/GirardotAlcald"><i class="fa fa-twitter fa-lg text-primary"></i></a></li>
+								<li><a href="http://girardot-cundinamarca.gov.co/RSS.shtml"><i class="fa fa-rss-square fa-lg text-warning"></i></a></li>
 							</ul>
 						</div>
 					</div>
