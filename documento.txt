@@ -1,0 +1,11 @@
+pvs
+es un centro donde se da servicio y conectividad de internet a ciudadania en General, ademas de eso promovemos la educacion basica en Tecnologia con capacitaciones.
+
+pvr
+se desarrolla actividades de capacitacion en informatica Basica y servicio de Conectividad para toda la ciudadania.
+
+pvp
+se ha implementado en la IET Francisco Manzanera Henriquez con Equipos de Ultima Tecnologia para el desarrollo de actividades de produccion audiovisual.
+
+pvl
+Es un laboratorio para desarrollo y produccion audiovisual, multimedia, videojuegos, paginas web. para los emprendedores y estudiantes.
