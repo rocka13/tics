@@ -4,7 +4,7 @@
 
 jQuery(window).load(function(){
 
-	$("#preloader").fadeOut(6000);
+	$("#preloader").fadeOut(3000);
 
 });
 
