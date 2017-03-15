@@ -190,7 +190,13 @@ body > section,
 .carousel-caption {
   border-radius: 10%;
   background-color: rgba(255,255,255,.4);
+  border:2px solid rgba(255,255,255,.8);
   top: 50%;
+
+  box-shadow: inset -14px -19px 44px -16px #ABABAB,0px 1px 34px 7px #242424;
+-webkit-box-shadow: inset -14px -19px 44px -16px #ABABAB,0px 1px 34px 7px #242424;
+-moz-box-shadow: inset -14px -19px 44px -16px #ABABAB,0px 1px 34px 7px #242424;
+-o-box-shadow: inset -14px -19px 44px -16px #ABABAB,0px 1px 34px 7px #242424;
 }
 
 .carousel-caption h2 {
@@ -230,12 +236,22 @@ top: -8px;
   left: 20px;
 }
 
+.carousel-caption .social-links{
+      background-color: rgba(255,255,255,.8);
+}
+
+.carousel-caption .social-links li{
+      border-radius: 5%;
+      padding:1%;
+}
+
 .social-links {
-  margin-top: 5%;
+  margin-top: 4%; 
 }
 
 .social-links li {
 	display: inline-block;
+
 }
 
 .social-links li a {
@@ -311,6 +327,7 @@ top: -8px;
   margin-left: 70px;
   position: relative;
   top: 5px;
+  
 }
 
 .service-desc h3 {
@@ -320,12 +337,19 @@ top: -8px;
   margin-bottom: 25px;
 }
 
+.service-desc p{
+  text-align: justify;
+}
 
 
 
 /*=========================================
 	Our Works
 ==========================================*/
+#contenedor-work{
+  margin-left: 5%;
+  width: 90%;
+}
 
 .work-filter {
   margin-bottom: 35px;
@@ -358,14 +382,15 @@ top: -8px;
 }
 
 .work-item {
+  margin: 0.2%;
     float: left;
-    width: 25%;
+    width: 24%;
     position: relative;
 }
 
 .work-item > img {
+  height: 300px;
   display: block;
-  height: auto;
   max-width: 100%;
 }
 

@@ -16,8 +16,8 @@
 							</div>
 							
 							<div class="service-desc">
-								<h3>PVD Policarpa Salavarrieta</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+								<a href="https://www.facebook.com/punto.vive?fref=ts"><h3>PVD Policarpa Salavarrieta</h3></a>
+								<p>Ofrece servicio y conectividad de internet a la ciudadania en General, ademas de eso se promueve la educación basica en Tecnologia con capacitaciones.</p>
 							</div>
 						</div>
 					</div>
@@ -31,8 +31,8 @@
 							</div>
 							
 							<div class="service-desc">
-								<h3>PVD Fundadores Ramon Bueno y Jose Triana</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+									<a href="https://www.facebook.com/FASE1GIRARDOT?fref=ts"><h3>PVD Fundadores Ramon Bueno y Jose Triana</h3></a>
+								<p>Se desarrolla actividades de capacitacion en informatica Basica y servicio de Conectividad para toda la ciudadania.</p>
 							</div>
 						</div>
 					</div>
@@ -46,8 +46,8 @@
 							</div>
 							
 							<div class="service-desc">
-								<h3>PVD Plus</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+								<a href="https://www.facebook.com/Punto-Vive-Digital-Plus-Girardot-1231156856955818"><h3>PVD Plus</h3></a>
+								<p>Se ha implementado en la IET Francisco Manzanera Henriquez con Equipos de Ultima Tecnologia para el desarrollo de actividades de produccion audiovisual.</p>
 							</div>
 						</div>
 					</div>
@@ -61,8 +61,8 @@
 							</div>
 							
 							<div class="service-desc">
-								<h3>PVD Lab</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+								<a href="https://www.facebook.com/Punto-Vive-Digital-Lab-Girardot-177955546016236/?fref=ts"><h3>PVD Lab</h3></a>
+								<p>Es un laboratorio para desarrollo y produccion audiovisual, multimedia, videojuegos, paginas web. para los emprendedores y estudiantes.</p>
 							</div>
 						</div>
 					</div>
