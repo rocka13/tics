@@ -17,7 +17,7 @@
 							<img src="img/team/perfil.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5>Ingeniero de Sistemas</h5>
-								<p>Necesito funciones de su perfil</p>
+								<p>Necesito funciones de su perfil y link de redes sociales</p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -36,7 +36,7 @@
 							<img src="img/team/perfil.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5>Ingeniero de sistemas</h5>
-								<p>Necesito funciones de su perfil</p>
+								<p>Necesito funciones de su perfil y link de redes sociales</p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -55,7 +55,7 @@
 							<img src="img/team/perfil.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5>Tecnologo en Redes y Seguridad Informatica</h5>
-								<p>Necesito funciones de su perfil</p>
+								<p>Necesito funciones de su perfil y link de redes sociales</p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -74,7 +74,7 @@
 							<img src="img/team/perfil.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5>Ingerniero en Telecomunicaciones</h5>
-								<p>Necesito funciones de su perfil</p>
+								<p>Necesito funciones de su perfil y link de redes sociales</p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -93,7 +93,7 @@
 							<img src="img/team/perfil.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5>Tecnologo en Redes</h5>
-								<p>Necesito funciones de su perfil</p>
+								<p>Necesito funciones de su perfil y link de redes sociales</p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -112,7 +112,7 @@
 							<img src="img/team/perfil.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5>Ingeniero de sistemas</h5>
-								<p>Necesito funciones de su perfil</p>
+								<p>Necesito funciones de su perfil y link de redes sociales</p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -131,7 +131,7 @@
 							<img src="img/team/perfil.jpg" alt="Team Member" class="img-responsive">
 							<figcaption class="overlay">
 								<h5>Tecnologo en sistemas</h5>
-								<p>Necesito funciones de su perfil</p>
+								<p>Necesito funciones de su perfil y link de redes sociales</p>
 								<ul class="social-links text-center">
 									<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
